@@ -17,7 +17,6 @@ I'm a **Network and Computer Systems Administrator** based in Granada, Spain, cu
 
 - 🎓 Degree in Network & Systems Administration (ASIR)
 - 🌐 Solid foundation in **networking**, **Linux/Windows Server**, and **virtualization**
-- 🔐 Interest in **cybersecurity** and system hardening
 - 🌍 High-level English (professional working proficiency)
 - 🚀 Eager to contribute in real-world environments and keep growing technically
 
