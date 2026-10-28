@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Network and Computer Systems Administrator** based in Granada, Spain, currently looking for my first professional role in IT.
+I'm a **Network and Computer Systems Administrator** based in Granada, Spain.
 
 - 🎓 Degree in Network & Systems Administration (ASIR)
 - 🌐 Solid foundation in **networking**, **Linux/Windows Server**, and **virtualization**
@@ -46,6 +46,3 @@ I'm a **Network and Computer Systems Administrator** based in Granada, Spain, cu
 
 ---
 
-<p align="center">
-  <i>Open to junior/entry-level positions in IT infrastructure, networking, or systems administration.</i>
-</p>
